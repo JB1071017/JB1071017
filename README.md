@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/JB1071017/JB1071017/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
