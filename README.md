@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/jeswinb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/JB1071017/" style="margin-left: 20px; margin-right: 20px;">
+  <a href="https://leetcode.com/" style="margin-left: 20px; margin-right: 20px;">
     <img src="https://i.imgur.com/NM4Z9WY.png?style=for-the-badge" height="30" width="100" alt="Leetcode Badge"/>
   </a>
 </div>
